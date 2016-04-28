@@ -1,0 +1,18 @@
+CVS: 0.4
+Resumo: 1.7
+Projeto: 6.8
+Nota G1: 8.9
+================
+Feedback Resumo
+================
+colocou capa! \o/
+resumo dos tópicos - copiou dos slides do palestrante
+Não usou corretor de texto.
+não teve desconto de formatação.
+não diferenciou jogos e simuladores
+====================
+Feedback Projeto
+====================
+Organizado corretamente dentro das pastas. Somente o nome da pasta deveria ter sido ordenacao e não Ordenacao.
+Documentação dentro do código poderia ter sido um pouco melhor.Revisar acentuações e formatação do Título Referências que ficou fora do padrão
+
